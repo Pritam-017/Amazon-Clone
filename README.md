@@ -6,13 +6,13 @@ An Amazon clone built with HTML and CSS.
     [View Website](https://pritam-017.github.io/Amazon-Clone/)
 
 ## Main View
-![Main]("https://github.com/user-attachments/assets/006586dc-d729-4fb0-a57c-5fc678350ae3")
+<img width="1909" height="1087" alt="Main" src="https://github.com/user-attachments/assets/438b92c2-0e03-43f2-9887-d2805f9d46a4" />
 
 ## Products View
-![products]("https://github.com/user-attachments/assets/0c03efb4-d1a5-4be6-9c5d-b6832693c83b")
+<img width="1913" height="1087" alt="Products" src="https://github.com/user-attachments/assets/5921be77-bc0f-48cb-9b20-57ffe95a0f20" />
 
 ## Footer View
-![footer]("https://github.com/user-attachments/assets/69d08a39-d5e6-4e4f-9539-4aadcd11318a")
+<img width="1919" height="1083" alt="Footer" src="https://github.com/user-attachments/assets/9240008a-d8fd-4f63-bbe5-211467d25634" />
 
 ## Built With
 - HTML5
