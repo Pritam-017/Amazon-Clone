@@ -3,7 +3,7 @@
 An Amazon clone built with HTML and CSS.
 
 ## 🔗 Live Preview
-    [View Website](https://pritam-017.github.io/Amazon-Clone/)
+   ![View Website](https://pritam-017.github.io/Amazon-Clone/)
 
 ## Main View
 <img width="1909" height="1087" alt="Main" src="https://github.com/user-attachments/assets/438b92c2-0e03-43f2-9887-d2805f9d46a4" />
